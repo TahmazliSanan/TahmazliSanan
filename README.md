@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello everyone! I am Sanan Tahmazli. In 2019-2023, I studied "Computer Science" at Khazar University. And currently, I am taking a master's degree in "Computer Science" at the Azerbaijan Technical University. I have 4 years of general programming experience and certifications in various programming languages. I am developing my knowledge and skills in "Backend Web Development". I have been working in this field for 3 years. Of course, in addition to these, I have experience with other technologies and tools.</p>
+<p align="left">Hello everyone! I am Sanan Tahmazli. In 2019-2023, I studied Computer Science at Khazar University. And currently, I am taking a master's degree in Computer Science at the Azerbaijan Technical University. I have 4 years of general programming experience and certifications in various programming languages. I am developing my knowledge and skills in Backend Development. I have been working in this field for 3 years. Of course, in addition to these, I have experience with other technologies and tools.</p>
 
 ###
 
