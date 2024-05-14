@@ -54,8 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -67,8 +65,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
 </div>
