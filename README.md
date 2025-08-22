@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Hello everyone! I am Sanan Tahmazli. In 2019-2023, I studied Computer Science at Khazar University. And currently, I am taking a master's degree in System Programming at the Azerbaijan Technical University. I have 5 years of general programming experience and certifications in various programming languages. I am developing my knowledge and skills in Backend Development. I have been working in this field for 4 years. Of course, in addition to these, I have experience with other technologies and tools.</p>
+<p align="left">
+  I am Sanan. In 2019-2023, I have studied Computer Science at Khazar University. In 2023-2025, I graduated a master's degree in System Programming at Azerbaijan Technical University. During this time, I have learned knowledge of Java SE, Java EE, Spring and RDBMS and implemented them on my personal real projects. In addition to these, I have experience with other tech and tools such as DataGrip, Termius, Postman, Git etc. I am currently working as a Junior Backend Developer at Azerconnect Group.
+</p>
 
 ###
 
