@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  I am Sanan. In 2019-2023, I have studied Computer Science at Khazar University. In 2023-2025, I graduated a master's degree in System Programming at Azerbaijan Technical University. During this time, I have learned knowledge of Java SE, Java EE, Spring and RDBMS and implemented them on my personal real projects. In addition to these, I have experience with other tech and tools such as DataGrip, Termius, Postman, Git etc. I am currently working as a Junior Backend Developer at Azerconnect Group.
+  I am Sanan. In 2019-2023, I have studied Computer Science at Khazar University. In 2023-2025, I graduated a master's degree in Computer Science at Azerbaijan Technical University. During this time, I have learned knowledge of Java SE, Java EE, Spring and RDBMS and implemented them on my personal real projects. In addition to these, I have experience with other tech and tools such as DataGrip, Termius, Postman, Git etc. I am currently working as a Junior Backend Developer at Azerconnect Group.
 </p>
 
 ###
